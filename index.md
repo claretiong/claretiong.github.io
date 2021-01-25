@@ -41,7 +41,7 @@
 
 ### AWARDS & ACTIVITIES
 * **National Scholarship**   Nov. 2019
-* **National Scholarship**  Nov. 2020
+* **National Scholarship**   Nov. 2020
 * Mathematical Contest In Modeling, Honorable Mention (Leader)   Apr. 2020
 * Beijing Contest District in China Undergraduate Mathematical Contest in Modeling, Second Prize（Leader）   Sept. 2020
 * 2019 “FLTRP·ETIC Cup” English Writing Contest, First Prize    Nov. 2020
@@ -49,4 +49,4 @@
 
 ### LANGUAGES & SKILLS
 * **Computer Skills:** Python, Java, C, SQL, SPSS, EViews, Dreamweaver, Stata;
-* **Languages:** Mandarin (Native), English（Fluent）
+* **Languages:** Mandarin(Native), English（Fluent）
