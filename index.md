@@ -9,15 +9,15 @@
       <p><b>Email: claretiong@163.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.ipg" width="100%">     
+      <img src="/zhengjianzhao.jpg" width="100%">     
     </td>
   </tr>
 </table>
 
 ### ACADEMIC PERFORMANCE
-  **GPA: 90.06/100   Comprehensive Rank: 1/66**
-Probability and Mathematical Statistics (94)  Management Information System (93) 
-Principles of Database System (93)  Operation Management (97)  Microeconomics (95)  Marketing(99)
+* **GPA: 90.06/100   Comprehensive Rank: 1/66**
+* Probability and Mathematical Statistics (94)  Management Information System (93) 
+* Principles of Database System (93)  Operation Management (97)  Microeconomics (95)  Marketing(99)
   
 ### RESEARCH EXPERIENCE  
 **Project: Sentiment Analysis of China’s Education Policy Online Opinion**  (2019-2020)
@@ -40,12 +40,12 @@ Principles of Database System (93)  Operation Management (97)  Microeconomics (9
 - Used latent Dirichlet allocation(LDA) and k-means to extract and cluster topics from the data (Python)
 
 ### AWARDS & ACTIVITIES
-* **National Scholarship**  Nov. 2019
+* **National Scholarship**   Nov. 2019
 * **National Scholarship**  Nov. 2020
-* Mathematical Contest In Modeling, Honorable Mention (Leader) Apr. 2020
-* Beijing Contest District in China Undergraduate Mathematical Contest in Modeling, Second Prize（Leader） Sept. 2020
-* 2019 “FLTRP·ETIC Cup” English Writing Contest, First Prize Nov. 2020
-* President, Energy Economics Union, CUPB Sept.2020 - Present
+* Mathematical Contest In Modeling, Honorable Mention (Leader)   Apr. 2020
+* Beijing Contest District in China Undergraduate Mathematical Contest in Modeling, Second Prize（Leader）   Sept. 2020
+* 2019 “FLTRP·ETIC Cup” English Writing Contest, First Prize    Nov. 2020
+* President, Energy Economics Union, CUPB   Sept.2020 - Present
 
 ### LANGUAGES & SKILLS
 * **Computer Skills:** Python, Java, C, SQL, SPSS, EViews, Dreamweaver, Stata;
