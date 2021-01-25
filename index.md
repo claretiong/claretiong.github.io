@@ -40,12 +40,12 @@
 - Used latent Dirichlet allocation(LDA) and k-means to extract and cluster topics from the data (Python)
 
 ### AWARDS & ACTIVITIES
-* **National Scholarship**   /Nov. 2019/
-* **National Scholarship**   /Nov. 2020/
-* Mathematical Contest In Modeling, Honorable Mention (Leader)   /Apr. 2020/
-* Beijing Contest District in China Undergraduate Mathematical Contest in Modeling, Second Prize（Leader）   /Sept. 2020/
-* 2019 “FLTRP·ETIC Cup” English Writing Contest, First Prize    /Nov. 2020/
-* President, Energy Economics Union, CUPB   /Sept.2020 - Present/
+* **National Scholarship** /Nov. 2019/
+* **National Scholarship** /Nov. 2020/
+* Mathematical Contest In Modeling, Honorable Mention (Leader) /Apr. 2020/
+* Beijing Contest District in China Undergraduate Mathematical Contest in Modeling, Second Prize（Leader) /Sept. 2020/
+* 2019 “FLTRP·ETIC Cup” English Writing Contest, First Prize /Nov. 2020/
+* President, Energy Economics Union, CUPB /Sept.2020 - Present/
 
 ### LANGUAGES & SKILLS
 * **Computer Skills:** Python, Java, C, SQL, SPSS, EViews, Dreamweaver, Stata;
