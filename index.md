@@ -5,6 +5,7 @@
       <p><b>Undergraduate</b></p>
       <p><b>China University of Petroleum, Beijing(Sept. 2018 - Jun. 2022)</b></p>
       <p><b>School of Economics and Management</b></p>
+      <p><b>Major: Information Management and Information System</b></p>
       <p><b>Email: claretiong@163.com</b></p>
     </td>
     <td width="25%">
@@ -37,7 +38,7 @@ Co- first Author, Resources & Industries (reviewers assigned)</br>
 · Collected online textual data regarding “imported frozen food safety in COVID-19” from Sina Weibo, used natural language processing to analyze the users’ emotions and opinions</br>
 · Using latent Dirichlet allocation(LDA) and k-means to extract and cluster topics from the data (Python)</br>
 </br>
-### AWARDS & ACTIVITIES
+### AWARDS & ACTIVITIES</br>
   National Scholarship                                                                                      Nov. 2019</br>
   National Scholarship                                                                                      Nov. 2020</br>
   Mathematical Contest In Modeling, Honorable Mention (Leader)                                              Apr. 2020</br>
@@ -45,6 +46,6 @@ Co- first Author, Resources & Industries (reviewers assigned)</br>
   2019 “FLTRP·ETIC Cup” English Writing Contest, First Prize                                                Nov. 2020</br>
   President, Energy Economics Union, CUPB 
 </br>
-### LANGUAGES & SKILLS  
+### LANGUAGES & SKILLS</br>  
    Computer Skills: Python, Java, C, SQL, SPSS, EViews, Dreamweaver, Stata;</br>
    Languages: Mandarin (Native), English（Fluent）</br>
