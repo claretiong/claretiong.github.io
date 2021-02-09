@@ -6,7 +6,7 @@
       <p><b>China University of Petroleum, Beijing (Sept. 2018 - Jun. 2022)</b></p>
       <p><b>School of Economics and Management</b></p>
       <p><b>Major: Information Management and Information System</b></p>
-      <p><b>Email: claretiong@163.com</b></p>
+      <p><b>Email: claretiong@foxmail.com</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">     
@@ -32,7 +32,7 @@
 
 ### RESEARCH EXPERIENCE  
 **Project: Sentiment Analysis of China’s Education Policy Online Opinion**     /Apr.2019 - May.2020/
-- **Project Leader**|**Advisor**: Ming Li (Professor, School of Economics and Management, CUPB)
+- **Project Leader**, **Advisor**: Ming Li (Professor, School of Economics and Management, CUPB)
 - Crawled online textual data on Sina Weibo, built a sentiment analysis model, and performed spatio-temporal visualization analysis
 - Analyzed online public opinion after the promulgation of the China’s high school entrance examination postponement policy under COVID-19, and proposed policy recommendations (Python)
 - Conclusion: the empirical analysis proves that the online public opinion analysis model of education policy can reflect the evolution of law
@@ -56,7 +56,7 @@
 - Found that the global oil price plunge is not a coincidence; national oil companies tend to have a slow response in low oil price situations
 
 **Project: An Analysis of Public Opinions Regarding imported frozen food safety in COVID-19**  /Dec.2020 - Present/
-- **Project Leader**|**Advisor**: Cen Song (Associate Professor, School of Economics and Management, CUPB)
+- **Project Leader**, **Advisor**: Cen Song (Associate Professor, School of Economics and Management, CUPB)
 - Collected online textual data regarding “imported frozen food safety in COVID-19” from Sina Weibo, used natural language processing to analyze the users’ emotions and opinions
 - Used latent Dirichlet allocation(LDA) and k-means to extract and cluster topics from the data (Python)
 
